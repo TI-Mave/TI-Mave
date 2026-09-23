@@ -35,10 +35,20 @@ Este é o perfil do time de **Tecnologia & Inovação** da Mave, onde ficam os s
 | **Acessórios para caminhão** | Cabos de aço, pinos de carroceria e lonas |
 | **Mave EPIs** | Luvas de trabalho |
 
+## Projetos internos
+
+Sistemas que o time mantém para a operação da Mave. O código é privado e de uso interno.
+
+<p align="center">
+  <img src="projetos.svg" alt="Projetos internos da Mave" width="100%">
+</p>
+
 ## Stack do time
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-1C1C1C?style=flat-square&logo=typescript&logoColor=F08319" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-1C1C1C?style=flat-square&logo=javascript&logoColor=F08319" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=F08319" alt="Python">
   <img src="https://img.shields.io/badge/HTML5-1C1C1C?style=flat-square&logo=html5&logoColor=F08319" alt="HTML5">
   <img src="https://img.shields.io/badge/PHP-1C1C1C?style=flat-square&logo=php&logoColor=F08319" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-1C1C1C?style=flat-square&logo=mysql&logoColor=F08319" alt="MySQL">
@@ -53,9 +63,6 @@ Este é o perfil do time de **Tecnologia & Inovação** da Mave, onde ficam os s
   </picture>
 </p>
 
----
-
 <p align="center">
-  <img src="logo.png" alt="Mave" width="140"><br>
-  <sub><b>Carga segura, vá de Mave!</b><br>Rodovia RSC 453, km 91, nº 950 · Garibaldi/RS · (54) 3464-1041</sub>
+  <img src="footer.svg" alt="Carga segura, vá de Mave!" width="100%">
 </p>

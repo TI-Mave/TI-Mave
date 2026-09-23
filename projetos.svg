@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="632" viewBox="0 0 1280 632" font-family="'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
+<g transform="translate(0,0)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">mave-credito</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">Análise de crédito B2B com Serasa</text>
+<circle cx="44" cy="92" r="6" fill="#3178c6"/><text x="56" y="97" font-size="14" fill="#9a9a9a">TypeScript</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+<g transform="translate(660,0)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">gerenciador-sistemas</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">Central de Projetos: projetos de TI e solicitações de mudança</text>
+<circle cx="44" cy="92" r="6" fill="#3178c6"/><text x="56" y="97" font-size="14" fill="#9a9a9a">TypeScript</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+<g transform="translate(0,130)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">Pireu-intranet</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">Intranet do Grupo Doca</text>
+<circle cx="44" cy="92" r="6" fill="#f1e05a"/><text x="56" y="97" font-size="14" fill="#9a9a9a">JavaScript</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+<g transform="translate(660,130)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">sistema-dre-orcamento</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">DRE e orçamento</text>
+<circle cx="44" cy="92" r="6" fill="#f1e05a"/><text x="56" y="97" font-size="14" fill="#9a9a9a">JavaScript</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+<g transform="translate(0,260)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">Sistema-recrutadora</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">Recrutamento e seleção</text>
+<circle cx="44" cy="92" r="6" fill="#e34c26"/><text x="56" y="97" font-size="14" fill="#9a9a9a">HTML</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+<g transform="translate(660,260)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">expert-vendas-mave</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">Monitoramento das conversas de vendas no WhatsApp</text>
+<circle cx="44" cy="92" r="6" fill="#e34c26"/><text x="56" y="97" font-size="14" fill="#9a9a9a">HTML</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+<g transform="translate(0,390)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">analise-conversas</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">Análise de conversas</text>
+<circle cx="44" cy="92" r="6" fill="#3572A5"/><text x="56" y="97" font-size="14" fill="#9a9a9a">Python</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+<g transform="translate(660,390)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">pcp-mave</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">PCP: planejamento e controle da produção</text>
+<circle cx="44" cy="92" r="6" fill="#e34c26"/><text x="56" y="97" font-size="14" fill="#9a9a9a">HTML</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+<g transform="translate(0,520)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">sistema-controle-frotas</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">Controle de frotas</text>
+<circle cx="44" cy="92" r="6" fill="#e34c26"/><text x="56" y="97" font-size="14" fill="#9a9a9a">HTML</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+<g transform="translate(660,520)">
+<rect width="620" height="112" rx="10" fill="#1C1C1C" stroke="#2e2e2e"/>
+<path d="M0 10a10 10 0 0 1 10-10h6v112h-6a10 10 0 0 1-10-10z" fill="#F08319"/>
+<text x="38" y="40" font-size="22" font-weight="700" fill="#ffffff">sistema-certificados</text>
+<text x="38" y="70" font-size="16" fill="#b8b8b8">Geração de certificados (Firebase Hosting)</text>
+<circle cx="44" cy="92" r="6" fill="#e34c26"/><text x="56" y="97" font-size="14" fill="#9a9a9a">HTML</text>
+<g transform="translate(508,22)"><rect x="-10" y="-8" width="98" height="28" rx="14" fill="none" stroke="#F08319"/><g transform="translate(4,-1)"><path d="M0 6V4a4 4 0 0 1 8 0v2h1v7H-1V6h1zm2 0h4V4a2 2 0 0 0-4 0v2z" fill="#F08319"/></g><text x="22" y="11" font-size="13" font-weight="600" fill="#F08319">Privado</text></g>
+</g>
+</svg>
