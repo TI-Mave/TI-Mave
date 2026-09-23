@@ -45,6 +45,14 @@ Este é o perfil do time de **Tecnologia & Inovação** da Mave, onde ficam os s
   <img src="https://img.shields.io/badge/Firebase-1C1C1C?style=flat-square&logo=firebase&logoColor=F08319" alt="Firebase">
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TI-Mave/TI-Mave/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TI-Mave/TI-Mave/output/snake-light.svg">
+    <img alt="Cobrinha laranja comendo as contribuições" src="https://raw.githubusercontent.com/TI-Mave/TI-Mave/output/snake-dark.svg">
+  </picture>
+</p>
+
 ---
 
 <p align="center">
